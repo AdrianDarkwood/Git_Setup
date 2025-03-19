@@ -1,0 +1,8 @@
+new
+name = ubutu
+change specs to above 8000
+core(s) = 3
+add existing virtual harddrive
+yellow box--->add--->scroll down to ubunttu---->the finish
+settings--->display--->
+hello
